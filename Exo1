@@ -4,6 +4,7 @@ GROCERY LIST
     - Apples
     - Pears
     - Bananas
+    - Oranges
     - Grapes
     - Melon
     - Lemon
@@ -13,18 +14,21 @@ GROCERY LIST
     - Broccoli
     - Carrots
     - Cucumbers
+    - Mushrooms
     - Onions
     - Peppers
     - Potatoes
+    - Zucchini
 
-* Meat/Fish:
+* Meat:
     - Beef
-    - Poultry
     - Pork
-    - Fish
     - Bacon
-    - Oranges
     - Sausage
+
+* Fish:
+    - Poultry
+    - Fish
 
 * Dairy
     - Milk
@@ -33,32 +37,45 @@ GROCERY LIST
     - Cream Cheese
     - Yogurt
 
-* Frozen food:
-    - Pizza
-    - Vegetables
-    - Waffles
-    - Ice Cream
+* Pasta:
+    - Spaghetti
+    - Macaroni
+    - Rice
+
+* Breads:
+    - Sandwich
+    - Bagels
+    - Croutons
 
 * Baking:
     - Sugar
     - Flour
     - Vanilla
 
+* Frozen food:
+    - Pizza
+    - Vegetables
+    - Waffles
+    - Ice Cream
+
+* Condiments:
+    - Peanut Butter
+    - Honey
+    - Ketchup
+    - Mustard
+    - Mayo
+
 * Spices:
     - Salt
     - Pepper
-
-* Pasta:
-    - Spaghetti
-    - Macaroni
-    - Rice
 
 * Beverages:
     - Water
     - Juice
     - Soda
-      Coffee
+    - Coffee
     - Tea
+    - Beer
     - Wine
 
 * Sauces/Oils:
@@ -68,27 +85,22 @@ GROCERY LIST
     - Soy sauce
     - Spaghetti Sauce
 
+* Pet Items:
+    - Dog Food
+    - Cat Food
+    - Cat Litter
+
 * Paper/Wrap:
     - Toilet Paper
     - Paper Towels
     - Tissues
-    - Beer
     - Plastic Wrap
     - Plastic Baggies
-
-* Pet Items:
-    - Cat Food
-    - Cat Litter
-    - Dog Food
-
-* Breads:
-    - Sandwich
-    - Bagels
-    - Croutons
 
 * Toiletries:
     - Soap
     - Shampoo
+    - Razors
     - Shaving Cream
     - Deodorant
     - Lotion
@@ -103,5 +115,6 @@ GROCERY LIST
     - Pikachu
     - Glass Cleaner
     - Sponges
+    - Batteries
     - Light Bulbs
     - Stamps
